@@ -2,7 +2,7 @@
 
 Um aplicativo de produtividade desenvolvido em **React Native** com **Expo**, focado em ajudar usuários a gerenciarem seu tempo de estudo através da técnica Pomodoro.
 
-
+![Image](https://github.com/user-attachments/assets/7cc0b468-128b-43f4-835a-4b6821db4631)
 
 ##  🚀 Funcionalidades
 
