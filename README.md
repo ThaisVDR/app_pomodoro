@@ -44,11 +44,5 @@ npx expo start
 ## ✉️ Contato
 Desenvolvido por Thaís Vitória. Vamos nos conectar!
 
-<p align="left">
-<a href="mailto:thaisvitoriadiasrosa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/tha%C3%ADs-vit%C3%B3ria-dias-rosa">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn" />
-</a>
-</p>
+ [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:thaisvitoriadr@gmail.com)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/tha%C3%ADs-vit%C3%B3ria-dias-rosa)
