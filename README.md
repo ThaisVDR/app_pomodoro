@@ -1,50 +1,54 @@
-# Welcome to your Expo app 👋
+# Aplicativo Pomodoro
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Um aplicativo de produtividade desenvolvido em **React Native** com **Expo**, focado em ajudar usuários a gerenciarem seu tempo de estudo através da técnica Pomodoro.
 
-## Get started
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+##  🚀 Funcionalidades
+
+- **Cronômetro Regressivo:** Interface intuitiva para contagem de tempo.
+- **Interface Moderna:** Layout focado em usabilidade e foco.
+
+##  🛠️ Tecnologias Utilizadas
+
+- **React Native / Expo** (Framework principal)
+- **TypeScript** (Tipagem estática para maior segurança do código)
+
+## 📦 Como rodar o projeto
+
+**1 - Clone o repositório:**
+```bash
+
+git clone [https://github.com/ThaisVDR/app_pomodoro.git](https://github.com/ThaisVDR/app_pomodoro.git)
+
+```
+
+**2 - Instale Dependências**
+
+```bash
+
+npm install
+
+```
+
+**3 - Iniciar o app**
 
 2. Start the app
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
 ```bash
-npm run reset-project
+
+npx expo start
+
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## ✉️ Contato
+Desenvolvido por Thaís Vitória. Vamos nos conectar!
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<p align="left">
+<a href="mailto:thaisvitoriadiasrosa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/tha%C3%ADs-vit%C3%B3ria-dias-rosa">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn" />
+</a>
+</p>
